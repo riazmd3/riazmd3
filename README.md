@@ -4,11 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=AI+Engineer;IoT+Developer;;Embedded+System+Enthusiast;Full-Stack+Developer;OpenCV+Explorer;YOLO+Model+Trainer" />
 
 ---
-
 ### 🧠 About Me
 
 - 🎓 AI & Data Science undergraduate at **Arunai Engineering College** (2022–2026)  

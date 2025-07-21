@@ -21,7 +21,7 @@
 
 | 🏅 | Achievement |
 |----|-------------|
-| 🥈 | **2nd Prize** – 24-Hour Hackathon @ St. Joseph’s Institute of Tech *(YOLOv8 Agri-Rover)* |
+| 🥈 | **2nd Prize** – Zoho Sponsored 24-Hour Hackathon @ St. Joseph’s Institute of Tech *(YOLOv8 Agri-Rover)* |
 | 🥉 | **3rd Prize** – ISRO Space Week @ IFET College *(Rescue Bot)* |
 | 🌟 | **Intel® Unnati Program** – 30-day deep learning bootcamp |
 | 🔬 | **TN Govt Young Scientist** – 14-day innovation camp (Class 10) |

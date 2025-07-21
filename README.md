@@ -72,7 +72,7 @@
 
 ### 📫 Contact Me
 
-- 📧 **Email**: riazmd3@gmail.com  
+- 📧 **Email**: riazmohemed0@gmail.com  
 - 📱 **Phone**: +91 9500820541  
 - 🌍 **Location**: Tiruvannamalai, Tamil Nadu  
 - 🔗 **LinkedIn**: [Riaz Mohammed A](https://in.linkedin.com/in/riaz-mohammed-12573a262)

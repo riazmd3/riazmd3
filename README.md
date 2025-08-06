@@ -60,13 +60,6 @@
 
 ---
 
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riazmd3&theme=radical&margin-w=10&no-bg=true" />
-</p>
-
----
 
 ### 📫 Contact Me
 

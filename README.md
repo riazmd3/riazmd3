@@ -70,12 +70,6 @@
 
 ---
 
-### ⚡ Fun Fact
-
-> 💬 "Building solutions that **bridge AI with the real world** is what drives me daily!"
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riazmd3&style=flat-square&color=blue" alt="GitHub profile views"/>
 </p>

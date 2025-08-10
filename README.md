@@ -9,6 +9,7 @@
 ---
 ### 🧠 About Me
 
+
 - 🎓 AI & Data Science undergraduate at **Arunai Engineering College** (2022–2026)  
 - 🚜 Working on an AI-powered **agriculture rover** using **YOLOv8** and ESP32-CAM  
 - 🧠 Passionate about solving real-world challenges using **AI, ML, IoT, and CV**  

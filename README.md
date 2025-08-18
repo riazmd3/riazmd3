@@ -37,7 +37,7 @@
 
 - **Languages:** Python • C/C++ • Embedded C • SQL  
 - **Libraries & Tools:** YOLOv8 • OpenCV • Flask • Pandas • NumPy  
-- **Domains:** AI • Computer Vision • Robotics • IoT • Web Dev  
+- **Domains:** Robotics •  AI • Computer Vision  • IoT • Web Dev  
 
 ---
 

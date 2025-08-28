@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Riaz Mohammed Rasheed 👋</h1>
+<h1 align="center">Hi, I'm Riaz Mohammed 👋</h1>
 <p align="center">
   <i>Innovative AI & Data Science Student | Embedded Systems Builder | IoT & Robotics Enthusiast</i>
 </p>
